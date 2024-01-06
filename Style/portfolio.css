@@ -9,6 +9,7 @@ nav{
     justify-content: space-between;
     margin: 0 200px ;
 }
+
 .text-praimary{
     color: #FD6E0A;
 }
@@ -71,4 +72,22 @@ height: 550px;
     color: var(--Dark-03, #757575);
     font-size: 18px;
     margin-bottom: 30px;
+}
+.about{
+    padding: 151px;
+    margin:130px 0;
+    border-radius: 10px;
+background: #FFF8F3;
+}
+.section-title{
+    color:  #181818;
+text-align: center;
+font-size: 35px;
+font-weight: 700;
+}
+.section-description{
+    color:  #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
 }
